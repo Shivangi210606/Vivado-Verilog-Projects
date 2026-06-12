@@ -28,7 +28,7 @@ Implementation and simulation of a 2-input AND gate.
 ---
 
 ## AND Gate Waveform
-![AND Gate Waveform](and_gate/and_gate_waveform.png)
+![AND Gate Waveform](and_gate/and_gate.png)
 
 ---
 
