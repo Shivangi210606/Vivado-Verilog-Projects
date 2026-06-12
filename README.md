@@ -77,7 +77,7 @@ Upcoming projects:
 **Shivangi Panigrahy**  
 ECE Student | FPGA & Digital Design Enthusiast
 
-GitHub: @shivangi210606
+GitHub: @Shivangi210606
 
 ---
 
