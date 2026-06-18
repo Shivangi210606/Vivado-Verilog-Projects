@@ -62,7 +62,7 @@ Design and simulation of a Full Adder capable of adding three binary inputs and 
 
 * `full_adder.v`
 * `full_adder_tb.v`
-* `full_adder_waveform.png`
+* `full_adder.png`
 
 ---
 
